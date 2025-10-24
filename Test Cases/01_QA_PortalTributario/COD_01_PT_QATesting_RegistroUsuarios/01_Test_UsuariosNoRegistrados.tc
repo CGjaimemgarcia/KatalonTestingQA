@@ -5,7 +5,7 @@
 2. Validar que exista un mensaje que notifique del error&#xd;
 3. Cerrar el login</description>
    <name>01_Test_UsuariosNoRegistrados</name>
-   <tag>UsuarioNoRegistrado</tag>
+   <tag>Usuarios</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>3ba0f1ac-0606-4662-804d-cabeea2a90d8</testCaseGuid>

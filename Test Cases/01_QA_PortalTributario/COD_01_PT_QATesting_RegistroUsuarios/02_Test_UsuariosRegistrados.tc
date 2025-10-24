@@ -5,7 +5,7 @@
 2. No debe haber interrupciones&#xd;
 3. Ver el portal</description>
    <name>02_Test_UsuariosRegistrados</name>
-   <tag></tag>
+   <tag>Usuarios</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>88c8c795-d63f-49da-933f-c0b4d3259abd</testCaseGuid>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FlujoRegistroUsuarios" time="33.905" tests="2" failures="0" errors="0">
+   <testsuite name="FlujoRegistroUsuarios" tests="2" failures="0" errors="0" time="33.905" skipped="0" timestamp="2025-10-24T06:09:36.034Z" hostname="Jaime_Maldonado - LAP-31" id="Test Suites/FlujoRegistroUsuarios">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Jaime_Maldonado\\git\\KatalonTestingQA\\Reports\\20251024_000932\\FlujoRegistroUsuarios\\20251024_000932"/>
+         <property name="logFiles" value="C:\\Users\\Jaime_Maldonado\\git\\KatalonTestingQA\\Reports\\20251024_000932\\FlujoRegistroUsuarios\\20251024_000932\\console0.log, C:\\Users\\Jaime_Maldonado\\git\\KatalonTestingQA\\Reports\\20251024_000932\\FlujoRegistroUsuarios\\20251024_000932\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Jaime_Maldonado - LAP-31"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.3.2.0"/>
+         <property name="browser" value="Chrome 141.0.7390.122"/>
+         <property name="userFullName" value="Jaime Maldonado"/>
+         <property name="hostAddress" value="192.168.100.69"/>
+         <property name="sessionId" value="c0f970d0f1f5e68dc751062a8107cba4"/>
+         <property name="projectName" value="KatalonTestingQA"/>
+         <property name="seleniumVersion" value="4.28.1"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/01_QA_PortalTributario/COD_01_PT_QATesting_RegistroUsuarios/01_Test_UsuariosNoRegistrados" time="9.685" classname="Test Cases/01_QA_PortalTributario/COD_01_PT_QATesting_RegistroUsuarios/01_Test_UsuariosNoRegistrados" status="PASSED">
+         <system-out><![CDATA[24-10-2025T00:09:36 - [TEST_CASE][PASSED] - Test Cases/01_QA_PortalTributario/COD_01_PT_QATesting_RegistroUsuarios/01_Test_UsuariosNoRegistrados: Test Cases/01_QA_PortalTributario/COD_01_PT_QATesting_RegistroUsuarios/01_Test_UsuariosNoRegistrados
+
+24-10-2025T00:09:37 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+24-10-2025T00:09:37 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+24-10-2025T00:09:37 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+24-10-2025T00:09:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+24-10-2025T00:09:39 - [TEST_STEP][PASSED] - navigateToUrl("https://saceq-kong-saceq-qa.apps.codice-cluser0.py57.p1.openshiftapps.com/app-qa/saceq"): Navigate to 'https://saceq-kong-saceq-qa.apps.codice-cluser0.py57.p1.openshiftapps.com/app-qa/saceq' successfully
+
+24-10-2025T00:09:40 - [MESSAGE][PASSED] - Navigate to 'https://saceq-kong-saceq-qa.apps.codice-cluser0.py57.p1.openshiftapps.com/app-qa/saceq' successfully
+
+24-10-2025T00:09:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/a_Registro_bg-pt-tertiary rounded-lg text-w_5995c9")): Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/a_Registro_bg-pt-tertiary rounded-lg text-w_5995c9' is clicked on
+
+24-10-2025T00:09:41 - [MESSAGE][PASSED] - Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/a_Registro_bg-pt-tertiary rounded-lg text-w_5995c9' is clicked on
+
+24-10-2025T00:09:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/input_OFICINA VIRTUAL_RFC"), "CUO620119VB1"): Text 'CUO620119VB1' is set on object 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/input_OFICINA VIRTUAL_RFC'
+
+24-10-2025T00:09:42 - [MESSAGE][PASSED] - Text 'CUO620119VB1' is set on object 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/input_OFICINA VIRTUAL_RFC'
+
+24-10-2025T00:09:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/button_Cancelar_px-4 py-2 uppercase bg-pt-t_3f7ad9")): Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/button_Cancelar_px-4 py-2 uppercase bg-pt-t_3f7ad9' is clicked on
+
+24-10-2025T00:09:43 - [MESSAGE][PASSED] - Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/button_Cancelar_px-4 py-2 uppercase bg-pt-t_3f7ad9' is clicked on
+
+24-10-2025T00:09:43 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/div_Usuario no registrado_go3958317564"), "Usuario no registrado"): Actual text and expected text of test object 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/div_Usuario no registrado_go3958317564' are matched.
+
+24-10-2025T00:09:43 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/div_Usuario no registrado_go3958317564' are matched.
+
+24-10-2025T00:09:43 - [TEST_STEP][PASSED] - rightClick(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/div_Usuario no registrado_go3958317564")): Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/div_Usuario no registrado_go3958317564' is right clicked on
+
+24-10-2025T00:09:44 - [MESSAGE][PASSED] - Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/div_Usuario no registrado_go3958317564' is right clicked on
+
+24-10-2025T00:09:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/a_CUO620119VB1_px-4 py-2 block uppercase bg_c6de09")): Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/a_CUO620119VB1_px-4 py-2 block uppercase bg_c6de09' is clicked on
+
+24-10-2025T00:09:44 - [MESSAGE][PASSED] - Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/a_CUO620119VB1_px-4 py-2 block uppercase bg_c6de09' is clicked on
+
+24-10-2025T00:09:44 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/img_v1.3.0_w-full h-auto rounded-lg"), 0): Object 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/img_v1.3.0_w-full h-auto rounded-lg' is present
+
+24-10-2025T00:09:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '10'
+
+24-10-2025T00:09:45 - [MESSAGE][PASSED] - Object 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/img_v1.3.0_w-full h-auto rounded-lg' is present
+
+24-10-2025T00:09:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+24-10-2025T00:09:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/01_QA_PortalTributario/COD_01_PT_QATesting_RegistroUsuarios/02_Test_UsuariosRegistrados" time="23.591" classname="Test Cases/01_QA_PortalTributario/COD_01_PT_QATesting_RegistroUsuarios/02_Test_UsuariosRegistrados" status="PASSED">
+         <system-out><![CDATA[24-10-2025T00:09:46 - [TEST_CASE][PASSED] - Test Cases/01_QA_PortalTributario/COD_01_PT_QATesting_RegistroUsuarios/02_Test_UsuariosRegistrados: Test Cases/01_QA_PortalTributario/COD_01_PT_QATesting_RegistroUsuarios/02_Test_UsuariosRegistrados
+
+24-10-2025T00:09:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+24-10-2025T00:09:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+24-10-2025T00:09:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+24-10-2025T00:09:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+24-10-2025T00:09:47 - [TEST_STEP][PASSED] - navigateToUrl("https://saceq-kong-saceq-qa.apps.codice-cluser0.py57.p1.openshiftapps.com/app-qa/saceq"): Navigate to 'https://saceq-kong-saceq-qa.apps.codice-cluser0.py57.p1.openshiftapps.com/app-qa/saceq' successfully
+
+24-10-2025T00:09:48 - [MESSAGE][PASSED] - Navigate to 'https://saceq-kong-saceq-qa.apps.codice-cluser0.py57.p1.openshiftapps.com/app-qa/saceq' successfully
+
+24-10-2025T00:09:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/a_Registro_bg-pt-tertiary rounded-lg text-w_5995c9")): Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/a_Registro_bg-pt-tertiary rounded-lg text-w_5995c9' is clicked on
+
+24-10-2025T00:09:49 - [MESSAGE][PASSED] - Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/a_Registro_bg-pt-tertiary rounded-lg text-w_5995c9' is clicked on
+
+24-10-2025T00:09:49 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/input_OFICINA VIRTUAL_RFC"), "TTI680427SMA"): Text 'TTI680427SMA' is set on object 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/input_OFICINA VIRTUAL_RFC'
+
+24-10-2025T00:09:50 - [MESSAGE][PASSED] - Text 'TTI680427SMA' is set on object 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/input_OFICINA VIRTUAL_RFC'
+
+24-10-2025T00:09:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/button_Cancelar_px-4 py-2 uppercase bg-pt-t_3f7ad9")): Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/button_Cancelar_px-4 py-2 uppercase bg-pt-t_3f7ad9' is clicked on
+
+24-10-2025T00:09:51 - [MESSAGE][PASSED] - Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/button_Cancelar_px-4 py-2 uppercase bg-pt-t_3f7ad9' is clicked on
+
+24-10-2025T00:09:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/path")): Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/path' is clicked on
+
+24-10-2025T00:10:01 - [MESSAGE][WARNING] - [WEBUI-SELF-HEALING] Failed to find element with id 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/path'. Try using Self-healing.
+
+24-10-2025T00:10:01 - [MESSAGE][INFO] - [WEBUI-SELF-HEALING] No working XPath is found.
+
+24-10-2025T00:10:01 - [MESSAGE][INFO] - [WEBUI-SELF-HEALING] Screenshot: C:/Users/Jaime_Maldonado/git/KatalonTestingQA/Reports/Self-healing/Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/path_SMART_LOCATOR.png
+
+24-10-2025T00:10:01 - [MESSAGE][WARNING] - [WEBUI-SELF-HEALING] The current locator of test object 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/path' was broken. Propose an alternative one: 'internal:role=button >> nth=0'.
+
+24-10-2025T00:10:01 - [MESSAGE][WARNING] - Waiting for element timed out
+
+24-10-2025T00:10:01 - [MESSAGE][PASSED] - Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/path' is clicked on
+
+24-10-2025T00:10:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/input_TTI680427SMA_Captura tu contrasea"), "Funcional24*"): Text 'Funcional24*' is set on object 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/input_TTI680427SMA_Captura tu contrasea'
+
+24-10-2025T00:10:02 - [MESSAGE][PASSED] - Text 'Funcional24*' is set on object 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/input_TTI680427SMA_Captura tu contrasea'
+
+24-10-2025T00:10:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/button_Cancelar_px-4 py-2 uppercase bg-pt-t_3f7ad9_1")): Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/button_Cancelar_px-4 py-2 uppercase bg-pt-t_3f7ad9_1' is clicked on
+
+24-10-2025T00:10:03 - [MESSAGE][PASSED] - Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/button_Cancelar_px-4 py-2 uppercase bg-pt-t_3f7ad9_1' is clicked on
+
+24-10-2025T00:10:03 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/p_BUMBBLE GUM S.A. C.V_title1 text-pt-terti_044aa3"), "MI PERFIL"): Actual text and expected text of test object 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/p_BUMBBLE GUM S.A. C.V_title1 text-pt-terti_044aa3' are matched.
+
+24-10-2025T00:10:07 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/p_BUMBBLE GUM S.A. C.V_title1 text-pt-terti_044aa3' are matched.
+
+24-10-2025T00:10:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/button_v1.3.0_bg-pt-tertiary rounded-lg tex_a88ca3")): Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/button_v1.3.0_bg-pt-tertiary rounded-lg tex_a88ca3' is clicked on
+
+24-10-2025T00:10:08 - [MESSAGE][PASSED] - Object: 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/button_v1.3.0_bg-pt-tertiary rounded-lg tex_a88ca3' is clicked on
+
+24-10-2025T00:10:08 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/img_v1.3.0_w-full h-auto rounded-lg"), 0): Object 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/img_v1.3.0_w-full h-auto rounded-lg' is present
+
+24-10-2025T00:10:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '10'
+
+24-10-2025T00:10:09 - [MESSAGE][PASSED] - Object 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/img_v1.3.0_w-full h-auto rounded-lg' is present
+
+24-10-2025T00:10:09 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+24-10-2025T00:10:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[24-10-2025T00:09:36 - [TEST_SUITE][PASSED] - FlujoRegistroUsuarios: null]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

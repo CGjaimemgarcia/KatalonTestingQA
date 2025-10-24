@@ -1,0 +1,68 @@
+2025-10-24 00:09:35.938 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/FlujoRegistroUsuarios
+2025-10-24 00:09:36.060 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Jaime Maldonado
+2025-10-24 00:09:36.061 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = KatalonTestingQA
+2025-10-24 00:09:36.064 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = Jaime_Maldonado - LAP-31
+2025-10-24 00:09:36.064 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2025-10-24 00:09:36.065 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.100.69
+2025-10-24 00:09:36.066 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.3.2.0
+2025-10-24 00:09:36.658 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-10-24 00:09:36.658 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/01_QA_PortalTributario/COD_01_PT_QATesting_RegistroUsuarios/01_Test_UsuariosNoRegistrados
+2025-10-24 00:09:37.098 DEBUG testcase.01_Test_UsuariosNoRegistrados   - 1: openBrowser("")
+2025-10-24 00:09:37.346 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-10-24 00:09:37.391 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+oct. 24, 2025 12:09:38 A. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ADVERTENCIA: Unable to find an exact match for CDP version 141, returning the closest version; found: 138; Please update to a Selenium version that supports CDP version 141
+2025-10-24 00:09:39.391 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = ef3a6323578cc35dbe84c3e4fbeb11a9
+2025-10-24 00:09:39.394 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 141.0.7390.122
+2025-10-24 00:09:39.395 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2025-10-24 00:09:39.396 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-10-24 00:09:39.408 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-10-24 00:09:39.496 DEBUG testcase.01_Test_UsuariosNoRegistrados   - 2: navigateToUrl("https://saceq-kong-saceq-qa.apps.codice-cluser0.py57.p1.openshiftapps.com/app-qa/saceq")
+2025-10-24 00:09:40.613 DEBUG testcase.01_Test_UsuariosNoRegistrados   - 3: click(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/a_Registro_bg-pt-tertiary rounded-lg text-w_5995c9"))
+2025-10-24 00:09:41.630 DEBUG testcase.01_Test_UsuariosNoRegistrados   - 4: setText(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/input_OFICINA VIRTUAL_RFC"), "CUO620119VB1")
+2025-10-24 00:09:42.649 DEBUG testcase.01_Test_UsuariosNoRegistrados   - 5: click(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/button_Cancelar_px-4 py-2 uppercase bg-pt-t_3f7ad9"))
+2025-10-24 00:09:43.174 DEBUG testcase.01_Test_UsuariosNoRegistrados   - 6: verifyElementText(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/div_Usuario no registrado_go3958317564"), "Usuario no registrado")
+2025-10-24 00:09:43.914 DEBUG testcase.01_Test_UsuariosNoRegistrados   - 7: rightClick(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/div_Usuario no registrado_go3958317564"))
+2025-10-24 00:09:44.473 DEBUG testcase.01_Test_UsuariosNoRegistrados   - 8: click(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/a_CUO620119VB1_px-4 py-2 block uppercase bg_c6de09"))
+2025-10-24 00:09:44.932 DEBUG testcase.01_Test_UsuariosNoRegistrados   - 9: verifyElementPresent(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/img_v1.3.0_w-full h-auto rounded-lg"), 0)
+2025-10-24 00:09:44.954 WARN  c.kms.katalon.core.helper.KeywordHelper  - Timeout '0' is invalid. Using default page load timeout: '10'
+2025-10-24 00:09:45.561 DEBUG testcase.01_Test_UsuariosNoRegistrados   - 10: closeBrowser()
+2025-10-24 00:09:46.343 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/01_QA_PortalTributario/COD_01_PT_QATesting_RegistroUsuarios/01_Test_UsuariosNoRegistrados
+2025-10-24 00:09:46.348 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-10-24 00:09:46.348 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/01_QA_PortalTributario/COD_01_PT_QATesting_RegistroUsuarios/02_Test_UsuariosRegistrados
+2025-10-24 00:09:46.418 DEBUG testcase.02_Test_UsuariosRegistrados     - 1: openBrowser("")
+2025-10-24 00:09:46.422 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-10-24 00:09:46.423 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+oct. 24, 2025 12:09:47 A. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ADVERTENCIA: Unable to find an exact match for CDP version 141, returning the closest version; found: 138; Please update to a Selenium version that supports CDP version 141
+2025-10-24 00:09:47.406 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = c0f970d0f1f5e68dc751062a8107cba4
+2025-10-24 00:09:47.407 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 141.0.7390.122
+2025-10-24 00:09:47.408 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2025-10-24 00:09:47.409 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-10-24 00:09:47.410 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-10-24 00:09:47.445 DEBUG testcase.02_Test_UsuariosRegistrados     - 2: navigateToUrl("https://saceq-kong-saceq-qa.apps.codice-cluser0.py57.p1.openshiftapps.com/app-qa/saceq")
+2025-10-24 00:09:48.566 DEBUG testcase.02_Test_UsuariosRegistrados     - 3: click(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/a_Registro_bg-pt-tertiary rounded-lg text-w_5995c9"))
+2025-10-24 00:09:49.486 DEBUG testcase.02_Test_UsuariosRegistrados     - 4: setText(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/input_OFICINA VIRTUAL_RFC"), "TTI680427SMA")
+2025-10-24 00:09:50.571 DEBUG testcase.02_Test_UsuariosRegistrados     - 5: click(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/button_Cancelar_px-4 py-2 uppercase bg-pt-t_3f7ad9"))
+2025-10-24 00:09:51.210 DEBUG testcase.02_Test_UsuariosRegistrados     - 6: click(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/path"))
+2025-10-24 00:10:01.389 WARN  .c.w.m.WebUiElementFinderWithSelfHealing - [WEBUI-SELF-HEALING] Failed to find element with id 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/path'. Try using Self-healing.
+2025-10-24 00:10:01.440 INFO  c.k.k.c.webui.model.WebUiElementFinder   - [WEBUI-SELF-HEALING] No working XPath is found.
+2025-10-24 00:10:01.705 INFO  c.k.k.c.webui.model.WebUiElementFinder   - [WEBUI-SELF-HEALING] Screenshot: C:/Users/Jaime_Maldonado/git/KatalonTestingQA/Reports/Self-healing/Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/path_SMART_LOCATOR.png
+2025-10-24 00:10:01.753 WARN  c.k.k.c.webui.model.WebUiElementFinder   - [WEBUI-SELF-HEALING] The current locator of test object 'Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/path' was broken. Propose an alternative one: 'internal:role=button >> nth=0'.
+2025-10-24 00:10:01.766 WARN  c.k.k.c.w.keyword.builtin.ClickKeyword   - Waiting for element timed out
+2025-10-24 00:10:01.850 DEBUG testcase.02_Test_UsuariosRegistrados     - 7: setText(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/input_TTI680427SMA_Captura tu contrasea"), "Funcional24*")
+2025-10-24 00:10:02.805 DEBUG testcase.02_Test_UsuariosRegistrados     - 8: click(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/button_Cancelar_px-4 py-2 uppercase bg-pt-t_3f7ad9_1"))
+2025-10-24 00:10:03.217 DEBUG testcase.02_Test_UsuariosRegistrados     - 9: verifyElementText(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/p_BUMBBLE GUM S.A. C.V_title1 text-pt-terti_044aa3"), "MI PERFIL")
+2025-10-24 00:10:07.719 DEBUG testcase.02_Test_UsuariosRegistrados     - 10: click(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/button_v1.3.0_bg-pt-tertiary rounded-lg tex_a88ca3"))
+2025-10-24 00:10:08.079 DEBUG testcase.02_Test_UsuariosRegistrados     - 11: verifyElementPresent(findTestObject("Object Repository/01_PortalTributario_Objects/Page_NUEVO RECAUDANET/img_v1.3.0_w-full h-auto rounded-lg"), 0)
+2025-10-24 00:10:08.087 WARN  c.kms.katalon.core.helper.KeywordHelper  - Timeout '0' is invalid. Using default page load timeout: '10'
+2025-10-24 00:10:09.091 DEBUG testcase.02_Test_UsuariosRegistrados     - 12: closeBrowser()
+2025-10-24 00:10:09.939 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/01_QA_PortalTributario/COD_01_PT_QATesting_RegistroUsuarios/02_Test_UsuariosRegistrados
+2025-10-24 00:10:09.940 INFO  c.k.katalon.core.main.TestCaseExecutor   - 
+2025-10-24 00:10:09.940 INFO  c.k.katalon.core.main.TestCaseExecutor   - ===================== Self-healing Report ====================
+2025-10-24 00:10:09.941 INFO  c.k.katalon.core.main.TestCaseExecutor   - One of the failed test object locators has been recovered by Self-healing. Please refer to the Self-healing Insights tab for more details.
+2025-10-24 00:10:09.942 INFO  c.k.katalon.core.main.TestCaseExecutor   - To learn more about Self-healing, please read https://docs.katalon.com/katalon-studio/maintain-tests/self-healing-tests-in-katalon-studio
+2025-10-24 00:10:09.944 INFO  c.k.katalon.core.main.TestCaseExecutor   - ==============================================================
+2025-10-24 00:10:09.973 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2025-10-24 00:10:09.973 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/FlujoRegistroUsuarios
+2025-10-24 00:10:09.973 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================
