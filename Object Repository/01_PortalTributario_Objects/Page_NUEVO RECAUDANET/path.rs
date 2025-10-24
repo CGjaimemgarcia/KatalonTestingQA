@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>c641ecb8-5bbc-4b37-8829-8326367cdd52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>bd083cba-8fbf-47d1-9463-7f4cdf6f5922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M89.68,31.03c-1.25,2.77-2.56,5.5-4.22,8.06-3.94,6.11-8.98,11.09-15.14,14.96-5.59,3.51-11.66,5.78-18.17,6.75-10,1.49-19.63.09-28.69-4.45C12.63,50.92,4.86,42.54.15,31.35c-.2-.47-.2-.87,0-1.33C4.63,19.41,11.88,11.31,21.99,5.78c4.84-2.65,10-4.4,15.43-5.21,9.43-1.41,18.55-.22,27.27,3.74,9.35,4.25,16.57,10.88,21.83,19.68,1.21,2.03,2.17,4.2,3.16,6.34v.7ZM24.54,30.7c0,11.18,9.13,20.28,20.32,20.26,11.14-.02,20.23-9.11,20.24-20.25,0-11.19-9.09-20.3-20.28-20.3-11.19,0-20.29,9.11-20.28,20.3ZM32.51,30.64c-.01,6.8,5.48,12.34,12.25,12.36,6.85.02,12.38-5.49,12.38-12.32,0-6.79-5.51-12.31-12.3-12.32-6.8,0-12.33,5.5-12.34,12.27Z</value>
+      <webElementGuid>af6724a8-ec3a-4703-a648-566fbaf2f5e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-pt-gray-100 min-h-screen&quot;]/div[@class=&quot;min-h-screen w-full flex flex-col items-center pt-24&quot;]/div[@class=&quot;bg-white lg:p-24 p-8 w-[60%] max-w-[838px] rounded-[40px] justify-evenly h-auto min-h-[400px] flex flex-col&quot;]/div[1]/div[@class=&quot;'grid' grid-cols-6 mas&quot;]/div[@class=&quot;py-8 col-start-4 col-span-6&quot;]/div[@class=&quot;grid grid-cols-12&quot;]/div[@class=&quot;col-span-12&quot;]/div[@class=&quot;flex flex-col items-start w-full&quot;]/div[@class=&quot;relative items-center my-3 h-[40px] w-full w-7/12 mb-5&quot;]/button[@class=&quot;absolute right-4 top-0 bottom-0&quot;]/p[@class=&quot;z-[999]&quot;]/svg[@class=&quot;size-6 fill-primary-gray-text&quot;]/path[1]</value>
+      <webElementGuid>be47584c-870e-48b8-b89d-cbe3d99d9215</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

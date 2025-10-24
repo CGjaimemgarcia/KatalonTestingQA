@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cancelar_px-4 py-2 uppercase bg-pt-t_3f7ad9_1</name>
+   <tag></tag>
+   <elementGuidId>dcb9edc9-bf42-4c34-846a-b72b0b121eb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[2]/div/div/div[3]/div[2]/span[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Continuar&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a2d0b5fb-974b-4220-9c8d-d1b60836b7b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 py-2 uppercase bg-pt-tertiary text-white text-w hite font-bold rounded-full text-xs disabled:bg-pt-tertiary/60 disabled:cursor-not-allowed text-center</value>
+      <webElementGuid>cdbc801e-1bec-4e39-9c82-62f0412b3d34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continuar</value>
+      <webElementGuid>851277f8-dac2-4b9e-ae06-495ea1bb8e05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-pt-gray-100 min-h-screen&quot;]/div[@class=&quot;min-h-screen w-full flex flex-col items-center pt-24&quot;]/div[@class=&quot;bg-white lg:p-24 p-8 w-[60%] max-w-[838px] rounded-[40px] justify-evenly h-auto min-h-[400px] flex flex-col&quot;]/div[1]/div[@class=&quot;Login_loginButtonsContainer__ExfF9&quot;]/div[@class=&quot;flex gap-3  sm:justify-end&quot;]/span[2]/button[@class=&quot;px-4 py-2 uppercase bg-pt-tertiary text-white text-w hite font-bold rounded-full text-xs disabled:bg-pt-tertiary/60 disabled:cursor-not-allowed text-center&quot;]</value>
+      <webElementGuid>88cc1fb1-b2e7-4c36-ae09-30e4b4c17f25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[2]/div/div/div[3]/div[2]/span[2]/button</value>
+      <webElementGuid>a4b64298-f545-446b-adc4-e49ae6affc55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::button[1]</value>
+      <webElementGuid>e277aab9-70bf-4448-9f98-fc513f5c8c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restablecer contraseña'])[1]/following::button[1]</value>
+      <webElementGuid>edd3d178-2afc-4184-a829-4cd5cfef9f77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continuar']/parent::*</value>
+      <webElementGuid>fb57ddae-4844-492a-b7a3-b74507dd27c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/button</value>
+      <webElementGuid>cdb11f51-7465-4c6e-ba0a-7249cfdf3394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Continuar' or . = 'Continuar')]</value>
+      <webElementGuid>26d38ace-ded4-4fe0-aa13-c23e5c22a1d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
