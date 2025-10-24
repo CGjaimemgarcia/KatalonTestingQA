@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b221a2be-0295-43b5-8460-2ab82de35c76</webElementGuid>
+      <webElementGuid>3b25542e-6cff-4a7d-853e-e6c9ba835792</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>px-4 py-2 uppercase bg-pt-tertiary text-white text-w hite font-bold rounded-full text-xs disabled:bg-pt-tertiary/60 disabled:cursor-not-allowed text-center</value>
-      <webElementGuid>eba5c67c-8094-4bce-a011-4b0e58e8fac5</webElementGuid>
+      <webElementGuid>ab50dafc-34c5-4758-b21f-758f7a48a78e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Continuar</value>
-      <webElementGuid>d34268f7-df97-4cbe-8918-0a55556c8bf6</webElementGuid>
+      <webElementGuid>c883c8f4-b70c-4269-af1b-26609888792d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;bg-pt-gray-100 min-h-screen&quot;]/div[@class=&quot;min-h-screen w-full flex flex-col items-center pt-24&quot;]/div[@class=&quot;bg-white lg:p-24 p-8 w-[60%] max-w-[838px] rounded-[40px] justify-evenly h-auto min-h-[400px] flex flex-col&quot;]/div[1]/div[@class=&quot;Login_loginButtonsContainer__ExfF9&quot;]/div[@class=&quot;flex gap-3  sm:justify-end&quot;]/span[2]/button[@class=&quot;px-4 py-2 uppercase bg-pt-tertiary text-white text-w hite font-bold rounded-full text-xs disabled:bg-pt-tertiary/60 disabled:cursor-not-allowed text-center&quot;]</value>
-      <webElementGuid>0b09b8ef-0e07-40ac-a18e-aade0c3f3a57</webElementGuid>
+      <webElementGuid>8ac2ab43-e885-4fe1-9914-614345fdaa42</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div[2]/div[2]/div/div/div[3]/div/span[2]/button</value>
-      <webElementGuid>65ad1c72-c7c9-4dde-b34d-320b30f59fc3</webElementGuid>
+      <webElementGuid>ac01734f-29c7-45e2-b885-a1bc34e192cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::button[1]</value>
-      <webElementGuid>11b654ea-1dbf-46ea-9641-a817422da397</webElementGuid>
+      <webElementGuid>9b48b89f-6d46-486b-88a8-a447252442be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Continuar']/parent::*</value>
-      <webElementGuid>57f5753d-6d3c-4a3c-b5b2-0d4e52b7674a</webElementGuid>
+      <webElementGuid>6bbbfc8e-7271-4779-b381-d660ad7fa4f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>c7db33a6-34b2-4e8f-8e4c-a1b162048046</webElementGuid>
+      <webElementGuid>21df3edf-d2f0-4905-9f26-ae14809a46c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Continuar' or . = 'Continuar')]</value>
-      <webElementGuid>54e57a84-bad4-4035-bbf3-a229d5ccb567</webElementGuid>
+      <webElementGuid>9e80c988-945d-4c04-a5b2-a783024a2327</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

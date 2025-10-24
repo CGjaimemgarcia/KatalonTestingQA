@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>416028e8-f923-486e-baac-78813c02188f</webElementGuid>
+      <webElementGuid>b1cbc152-0d94-4c1b-aa1b-0b5744b67c7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bg-pt-tertiary rounded-lg text-white p-[6px] uppercase text-sm whitespace-nowrap</value>
-      <webElementGuid>c376a2ca-8282-46be-a14a-1374cdbabe46</webElementGuid>
+      <webElementGuid>204b0670-946c-4cb1-b3c3-84b74f6c07b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/app-qa/saceq/ingreso</value>
-      <webElementGuid>c66e60da-778b-4c9b-adf8-6dd3645c8a4f</webElementGuid>
+      <webElementGuid>d5762f5a-7e1a-40a0-ab81-4811fc8abb3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>ACCESO</value>
-      <webElementGuid>322e5cd2-d14a-422b-a5ac-eb97b7a8f091</webElementGuid>
+      <webElementGuid>7e2aa1b1-5143-40ad-b24c-4e99d97f4fbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;flex items-center h-[48px] pt-[15px] gap-2 sticky top-0 z-80 bg-white&quot;]/a[@class=&quot;bg-pt-tertiary rounded-lg text-white p-[6px] uppercase text-sm whitespace-nowrap&quot;]</value>
-      <webElementGuid>ac5d9682-023e-4cb6-bf0d-37d9f0820791</webElementGuid>
+      <webElementGuid>49e7856e-0be9-46d7-b8bc-2f526552a182</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div[3]/a[2]</value>
-      <webElementGuid>9174cc23-bc3a-4c14-9c01-5ffb9513e450</webElementGuid>
+      <webElementGuid>64d94ba2-46c7-4738-8b0d-bab951ee4ab7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'ACCESO')]</value>
-      <webElementGuid>8123ef29-d10d-4ded-b4fc-963f2a0c9994</webElementGuid>
+      <webElementGuid>db513515-259f-4559-bebb-77ce530f60a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Registro'])[1]/following::a[1]</value>
-      <webElementGuid>f23a31e3-8102-47f9-b3fb-825737b351bf</webElementGuid>
+      <webElementGuid>0ab3590c-ca99-4232-801d-6a5926825829</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='v1.3.0'])[1]/preceding::a[2]</value>
-      <webElementGuid>2f715147-072c-4077-9198-7511ba77a2d0</webElementGuid>
+      <webElementGuid>acbaaa72-5405-49c1-9d26-b9ab9fed9887</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCESOS DIRECTOS'])[1]/preceding::a[2]</value>
-      <webElementGuid>6c8beab7-168d-44b7-9534-d844f02589ac</webElementGuid>
+      <webElementGuid>6f5f4429-7be8-476f-bd09-e8f3edfdbea4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='ACCESO']/parent::*</value>
-      <webElementGuid>731e138a-d878-4978-91dc-addd1d24d793</webElementGuid>
+      <webElementGuid>a93a6cfd-aa4b-45a9-bf81-bbe73e1c7901</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/app-qa/saceq/ingreso')]</value>
-      <webElementGuid>46b6c193-ac63-4b0e-9d8b-377c0c43bc2f</webElementGuid>
+      <webElementGuid>d77ccc33-24c2-4f9b-ad92-57e1fb5a4b15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>6d3447e0-e1ab-49ed-afe2-60043e617efc</webElementGuid>
+      <webElementGuid>a609f94c-bc8e-4557-8226-5841f5ff3e56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/app-qa/saceq/ingreso' and (text() = 'ACCESO' or . = 'ACCESO')]</value>
-      <webElementGuid>c67b39d7-47a9-4c35-a499-48d1bd090e17</webElementGuid>
+      <webElementGuid>da31d9ae-da77-4ed9-af03-31bdccc0d0ec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

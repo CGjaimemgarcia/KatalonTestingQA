@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>1fd4c4f5-e0ef-4a6d-9287-e7ba7558a90c</webElementGuid>
+      <webElementGuid>2d8e7f73-647c-4b9e-b1ae-3c2e4b042820</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Descripción de la imagen</value>
-      <webElementGuid>0c4d050c-0fa1-4405-b694-6b22d0e7aae7</webElementGuid>
+      <webElementGuid>d37afaa7-5764-4bb2-b45e-d10b0c801470</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>02341f33-dbd7-4d79-b043-11ad2de4a83c</webElementGuid>
+      <webElementGuid>e32d8b7b-df9c-4a75-8c57-2bce2d368b4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>width</name>
       <type>Main</type>
       <value>1920</value>
-      <webElementGuid>59ff3afa-d1e1-47dd-97ed-983473a1a43a</webElementGuid>
+      <webElementGuid>e0aa88bf-67ba-4114-91a4-dd559699a8c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>height</name>
       <type>Main</type>
       <value>600</value>
-      <webElementGuid>8ee0de33-3962-4928-ae7c-7c26f93bfa08</webElementGuid>
+      <webElementGuid>0d086189-b533-4295-b26b-d877cba0687d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>decoding</name>
       <type>Main</type>
       <value>async</value>
-      <webElementGuid>bb2729a0-d4fc-4711-bfba-84fafb0c0df8</webElementGuid>
+      <webElementGuid>1c25058c-31e5-48fc-b881-11aff8ccd549</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>data-nimg</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>3dacdd0b-3e92-4860-ba5e-209157bc7301</webElementGuid>
+      <webElementGuid>f377a806-59da-49a3-a58d-802ada1f7fc5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full h-auto rounded-lg</value>
-      <webElementGuid>9c091dc0-02fd-43ea-ba07-132c2e47f6eb</webElementGuid>
+      <webElementGuid>731c19c0-0c46-4c27-9c97-c43390780e4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>srcset</name>
       <type>Main</type>
       <value>/app-qa/saceq/_next/image?url=%2Fapp-qa%2Fsaceq%2Fassets%2Fmain%2FBANNER-GRANDE.jpg&amp;w=1920&amp;q=75 1x, /app-qa/saceq/_next/image?url=%2Fapp-qa%2Fsaceq%2Fassets%2Fmain%2FBANNER-GRANDE.jpg&amp;w=3840&amp;q=75 2x</value>
-      <webElementGuid>7295aa46-f7a1-433f-b4a9-ee5018ebb682</webElementGuid>
+      <webElementGuid>002c866c-574e-4abf-afa9-11e3a040ce05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/app-qa/saceq/_next/image?url=%2Fapp-qa%2Fsaceq%2Fassets%2Fmain%2FBANNER-GRANDE.jpg&amp;w=3840&amp;q=75</value>
-      <webElementGuid>1f9f3798-324a-4e27-98f3-37ba9f3fe9ff</webElementGuid>
+      <webElementGuid>a0ed93cd-b305-4de3-b508-ba3b24da8623</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;main&quot;]/div[@class=&quot;main__container&quot;]/img[@class=&quot;w-full h-auto rounded-lg&quot;]</value>
-      <webElementGuid>1cc6e5c8-ee41-4e83-828c-dbd8f4839908</webElementGuid>
+      <webElementGuid>51fb5d8a-2df9-433d-952e-247fa6d3a797</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div[4]/div/img</value>
-      <webElementGuid>855be35e-d167-4104-b5b0-6867c8527074</webElementGuid>
+      <webElementGuid>af6aef89-da31-49b8-abde-625089ab0f36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Descripción de la imagen']</value>
-      <webElementGuid>571bf9c6-59b8-4f06-a6e5-df598347bc96</webElementGuid>
+      <webElementGuid>0edb3382-89f9-47b2-bbf3-c0e57058659c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/img</value>
-      <webElementGuid>7b130178-5652-42cd-aee8-3117d4daceaa</webElementGuid>
+      <webElementGuid>d3b6de74-85a4-4dbf-92fd-bed366e6e428</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'Descripción de la imagen' and @src = '/app-qa/saceq/_next/image?url=%2Fapp-qa%2Fsaceq%2Fassets%2Fmain%2FBANNER-GRANDE.jpg&amp;w=3840&amp;q=75']</value>
-      <webElementGuid>0a0fe623-8d47-4cd1-94cd-b95d496aae5c</webElementGuid>
+      <webElementGuid>22998b13-edd9-4ef4-a778-e980a43c7e09</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
